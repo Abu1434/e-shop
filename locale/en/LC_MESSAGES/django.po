@@ -1,0 +1,146 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-15 19:47+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+#: .\django_project_shop\settings.py:96
+msgid "English"
+msgstr ""
+
+#: .\django_project_shop\settings.py:97
+msgid "Uzbek"
+msgstr ""
+
+#: .\django_project_shop\settings.py:98
+msgid "Russian"
+msgstr ""
+
+#: .\products\models.py:7 .\products\models.py:18 .\products\models.py:29
+#: .\products\models.py:54
+msgid "name"
+msgstr ""
+
+#: .\products\models.py:13
+msgid "Category"
+msgstr ""
+
+#: .\products\models.py:14
+msgid "Categories"
+msgstr ""
+
+#: .\products\models.py:24
+msgid "Size"
+msgstr ""
+
+#: .\products\models.py:25
+msgid "Sizes"
+msgstr ""
+
+#: .\products\models.py:35
+msgid "Color"
+msgstr ""
+
+#: .\products\models.py:36
+msgid "Colors"
+msgstr ""
+
+#: .\products\models.py:40 .\products\models.py:63 .\users\models.py:8
+msgid "image"
+msgstr ""
+
+#: .\products\models.py:41
+msgid "is_active"
+msgstr ""
+
+#: .\products\models.py:42
+msgid "description"
+msgstr ""
+
+#: .\products\models.py:43 .\products\models.py:68 .\users\models.py:10
+msgid "created_at"
+msgstr ""
+
+#: .\products\models.py:49
+msgid "Banner"
+msgstr ""
+
+#: .\products\models.py:50
+msgid "Banners"
+msgstr ""
+
+#: .\products\models.py:55
+msgid "price"
+msgstr ""
+
+#: .\products\models.py:56
+msgid "discount"
+msgstr ""
+
+#: .\products\models.py:58
+msgid "category"
+msgstr ""
+
+#: .\products\models.py:59
+msgid "size"
+msgstr ""
+
+#: .\products\models.py:60
+msgid "color"
+msgstr ""
+
+#: .\products\models.py:61
+msgid "short_description"
+msgstr ""
+
+#: .\products\models.py:62
+msgid "long_description"
+msgstr ""
+
+#: .\products\models.py:64
+msgid "is_available"
+msgstr ""
+
+#: .\products\models.py:66
+msgid "seller"
+msgstr ""
+
+#: .\products\models.py:74
+msgid "Product"
+msgstr ""
+
+#: .\products\models.py:75
+msgid "Products"
+msgstr ""
+
+#: .\templates\index.html:49
+msgid "Products with the most discount"
+msgstr ""
+
+#: .\templates\index.html:51
+msgid ""
+"\n"
+"                        There are products with the most discount.\n"
+"                    "
+msgstr ""
+
+#: .\templates\index.html:65
+msgid "More Detail"
+msgstr ""
+
+#: .\users\models.py:9
+msgid "email"
+msgstr ""
